@@ -10,6 +10,7 @@ function distinct(arr1, arr2) {
       i++;
     }
   }
+
   return sum;
 }
 
